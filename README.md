@@ -14,10 +14,10 @@ Key points:
 - Focused on actionable insights for genre popularity trends
 
 ## Datasets of different streaming platforms
-Netflix : [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-Hulu : [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows)
-Disney plus : [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
-Amazon prime : [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
+- Netflix : [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- Hulu : [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows)
+- Disney plus : [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
+- Amazon prime : [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 
 
 ## Features
